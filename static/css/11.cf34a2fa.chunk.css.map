@@ -1,0 +1,1 @@
+{"version":3,"sources":["startPage.css"],"names":[],"mappings":"AAAA,oBACE,eACF,CAEA,UACE,qBACF,CAEA,WACE,cACF","file":"11.cf34a2fa.chunk.css","sourcesContent":[".border-radius-none {\r\n  border-radius: 0rem;\r\n}\r\n\r\n.bg-white {\r\n  background-color: white;\r\n}\r\n\r\n.flex-wrap {\r\n  flex-wrap: wrap;\r\n}"]}
